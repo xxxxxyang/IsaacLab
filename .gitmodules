@@ -1,0 +1,3 @@
+[submodule "ParkourLab"]
+	path = ParkourLab
+	url = https://github.com/xxxxxyang/ParkourLab.git
